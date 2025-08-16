@@ -19,6 +19,7 @@ html {
 
 button {  
   cursor: pointer;
+  color: var(--primary);
   background-color: var(--background);
 }
 body {
